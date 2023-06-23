@@ -4,6 +4,10 @@ workbench -> Part Design
 escolher TinkerCAD
 
 
+Combo View
+   Model
+      Data
+         Base -> Placement
 
 
 
