@@ -10,6 +10,12 @@ Combo View
          Base -> Placement
 
 
+icone Make Compound
+   selecionar o cone
+      file -> export
+      
+      é possível selecionar vários objetos
+      
 
 
 
