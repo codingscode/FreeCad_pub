@@ -17,6 +17,7 @@ icone Make Compound
       é possível selecionar vários objetos
       
 
+icone "measure distance"
 
 
 
@@ -34,8 +35,7 @@ icone Make Compound
 
 
 
-
-
+https://www.xsim.info/articles/FreeCAD/en-US/HowTo/Copy-and-move-a-object.html
 
 
 
