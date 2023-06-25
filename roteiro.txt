@@ -19,12 +19,14 @@ icone Make Compound
 
 icone "measure distance"
 
+icone "fillet"
 
+icone "chamfer"
 
+icone "create sketch"
 
-
-
-
+       extrude
+       
 
 
 
