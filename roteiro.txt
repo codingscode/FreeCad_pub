@@ -33,7 +33,7 @@ icone "shape builder"
 
 selecionar arestas do cubo, ir em "Fillet" e aplicar ok
 
-
+Edit -> Box selection -> serve para selecionar várias faces de um objeto(s)
 
 
 
