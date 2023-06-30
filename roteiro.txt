@@ -28,7 +28,10 @@ icone "create sketch"
        extrude
        
 
+icone "shape builder"
 
+
+selecionar arestas do cubo, ir em "Fillet" e aplicar ok
 
 
 
